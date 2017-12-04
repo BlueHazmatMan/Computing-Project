@@ -1,0 +1,16 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Assassin", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Chain devil", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Cloaker", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Drow priestess of Lolth", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Fomorian", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Frost giant", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Githyanki knight", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Green slaad", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Hezrou", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Hydra", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Mind flayer arcanist", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Spirit naga", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Tyrannosaurus rex", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Young bronze dragon", 3900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Young green dragon", 3900);

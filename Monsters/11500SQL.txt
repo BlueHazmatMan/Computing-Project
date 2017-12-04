@@ -1,0 +1,5 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Adult black dragon", 11500);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Adult copper dragon", 11500);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Beholder", 11500);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Ice devil", 11500);

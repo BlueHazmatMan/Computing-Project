@@ -1,0 +1,22 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Banshee", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Black pudding", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Bone naga", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Chuul", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Couatl", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Elephant", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Ettin", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Flameskull", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Ghost", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Gnoll fang of Yeenoghu", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Helmed horror", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Incubus", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Lamia", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Lizard king/queen", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Orc war chief", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Red dragon wyrmling", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Sea hag (in coven)", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Shadow demon", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Succubus", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Wereboar", 1100);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Weretiger", 1100);

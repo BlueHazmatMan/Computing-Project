@@ -1,0 +1,4 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Ancient bronze dragon", 41000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Ancient green dragon", 41000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Lich", 41000);

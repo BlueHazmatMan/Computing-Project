@@ -1,0 +1,2 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Tarrasque", 155000);

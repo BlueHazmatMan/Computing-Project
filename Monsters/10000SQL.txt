@@ -1,0 +1,9 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Adult brass dragon", 10000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Adult white dragon", 10000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Nalfeshnee", 10000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Rakshasa", 10000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Storm giant", 10000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Ultroloth", 10000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Vampire", 10000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Young red shadow dragon", 10000);

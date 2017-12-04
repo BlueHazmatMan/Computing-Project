@@ -1,0 +1,56 @@
+10 baboon
+10 badger
+10 cat
+10 commoner
+10 goat
+10 sea horse
+25 camel
+25 mule
+25 pony
+25 tribal warrior
+25 bandit
+50 boar
+50 elk
+50 flying sword
+50 giant frog
+50 panther
+50 zombie
+50 skeleton
+50 goblin
+50 bullywug
+100 black bear
+100 crocodile
+100 deep gnome
+100 giant goat
+100 orc
+100 thug
+100 worg
+200 animated armour
+200 brown bear
+200 bugbear
+200 dire wolf
+200 giant toad
+200 goblin boss
+200 harpy
+200 imp
+200 scarecrow
+200 tiger
+450 awakened tree
+450 centaur
+450 giant ely
+450 hunter shark
+450 ogre
+450 pegasus
+450 polar bear
+450 wererat
+450 priest
+700 owlbear
+700 yeti
+700 mummy
+700 bugbear chief
+700 giant giant boar
+1100 banshee
+1100 black pudding
+1100 elephant
+1100 wereboar
+1100 weretiger

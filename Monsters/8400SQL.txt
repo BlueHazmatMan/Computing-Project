@@ -1,0 +1,4 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Arcanaloth", 8400);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Archmage", 8400);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Erinyes", 8400);

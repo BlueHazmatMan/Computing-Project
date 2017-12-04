@@ -1,0 +1,8 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Adult blue dracolich", 18000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Adult gold dragon", 18000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Adult red dragon", 18000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Androsphinx", 18000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Death knight", 18000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Dragon turtle", 18000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Goristro", 18000);

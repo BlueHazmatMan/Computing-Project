@@ -1,0 +1,7 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Adult bronze dragon", 13000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Adult green dragon", 13000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Death tyrant", 13000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Purple worm", 13000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Vampire (spellcaster)", 13000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Vampire (warrior)", 13000);

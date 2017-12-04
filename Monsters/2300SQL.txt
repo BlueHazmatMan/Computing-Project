@@ -1,0 +1,17 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Chasme", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Chimera", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Cyclops", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Drider", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Galeb duhr", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Githzerai zerth", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Hobgoblin warlord", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Invisible stalker", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Kuo-toa archpriest", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Mage", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Mammoth", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Medusa", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Vrock", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Wyvern", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Young brass dragon", 2300);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Young white dragon", 2300);

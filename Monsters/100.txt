@@ -1,0 +1,35 @@
+Ape
+Black bear
+Cockatrice
+Crocodile
+Darkmantle
+Deep gnome
+Dust mephit
+Gas spore
+Giant goat
+Giant sea horse
+Giant wasp
+Gnoll
+Gray ooze
+Hobgoblin
+Ice mephit
+Jackalwere
+Lizardfolk
+Magma mephit
+Magmin
+Myconid adult
+Orc
+Piercer
+Reef shark
+Rust monster
+Sahuagin
+Satyr
+Scout
+Shadow
+Swarm of insects
+Thug
+Tridrone
+Vine blight
+Warhorse
+Warhorse skeleton
+Worg

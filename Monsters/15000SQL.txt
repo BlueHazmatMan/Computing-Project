@@ -1,0 +1,7 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Adult blue dragon", 15000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Adult silver dragon", 15000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Iron golem", 15000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Marilith", 15000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Mummy lord", 15000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Planetar", 15000);

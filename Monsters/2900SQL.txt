@@ -1,0 +1,13 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Blue slaad", 2900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Drow mage", 2900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Giant ape", 2900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Grick alpha", 2900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Mind flayer", 2900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Night hag (in coven)", 2900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Oni", 2900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Shield guardian", 2900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Stone giant", 2900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Young black dragon", 2900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Young copper dragon", 2900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Yuan-ti abomination", 2900);

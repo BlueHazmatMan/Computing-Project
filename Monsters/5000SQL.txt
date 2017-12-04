@@ -1,0 +1,12 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Abominable yeti", 5000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Bone devil", 5000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Clay golem", 5000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Cloud giant", 5000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Fire giant", 5000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Glabrezu", 5000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Gray slaad", 5000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Nycaloth", 5000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Treant", 5000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Young blue dragon", 5000);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Young silver dragon", 5000);

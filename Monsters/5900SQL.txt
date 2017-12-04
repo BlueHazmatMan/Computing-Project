@@ -1,0 +1,9 @@
+
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Aboleth", 5900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Death slaad", 5900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Deva", 5900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Guardian naga", 5900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Stone golem", 5900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Yochlol", 5900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Young gold dragon", 5900);
+INSERT INTO monster (MonsterName, MonsterXP) VALUES ("Young red dragon", 5900);
